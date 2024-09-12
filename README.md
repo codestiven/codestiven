@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Dominican Republic</h3>
 <br/>
 
-<img align="right" alt="Coding" width="400" src="https://miro.medium.com/v2/resize:fit:996/1*CtdykXzI3YnV7hrkaTnvCw.gif">
+<img align="right" alt="Coding" width="320" src="https://miro.medium.com/v2/resize:fit:996/1*CtdykXzI3YnV7hrkaTnvCw.gif">
 
 
 - 🌱 I’m currently learning **New programming languages and how to solve complex tech problems.**
