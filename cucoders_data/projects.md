@@ -1,6 +1,6 @@
 ## [Pasantías RD](https://rd.pasanguino.com/)
 
-![Pasantías RD](https://rd.pasanguino.com/assets/img/logo.png)
+![Pasantías RD](https://github.com/Pasanguino/PasantiasRD/blob/main/Captura%20de%20pantalla%20(876).png?raw=true)
 
 **Descripción:** Una aplicación web para la búsqueda de pasantías, desarrollada con **Laravel**, **HTML**, **CSS**, **Tailwind CSS**, **JavaScript**, y **Vue.js**. Utiliza **Inertia.js** para interacciones cliente-servidor fluidas.
 
